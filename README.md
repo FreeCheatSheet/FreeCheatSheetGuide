@@ -9,4 +9,5 @@
 
 ## Contents
 [🍿Movies and TV🍿](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md)
-[](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Emulation.md)
+
+[💾Emulation💾](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Emulation.md)
