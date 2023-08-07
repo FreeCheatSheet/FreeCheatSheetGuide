@@ -1,5 +1,5 @@
-# FreeCheatSheetV3            
-<span style="color:green">[Skip To Contents](#contents)</span>
+# FreeCheatSheetV3
+[**Skip To Contents**](#contents)
 
 ## Information 
 
