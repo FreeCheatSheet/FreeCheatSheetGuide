@@ -2,7 +2,7 @@
 [**Skip To Contents**](#contents)
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> WIP (Text needs disclaimer)
 
 ## Internet Safety
 
