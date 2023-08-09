@@ -30,5 +30,5 @@
 - **[📁Software📁](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Software.md)**
 - **[📚Books📚](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Books.md)**
 - **[🎵Music🎵](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Music.md)**
-- **[💽Other💽](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Others.md)**
+- **[💽Other💽](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Other.md)**
 - **[💡Fun Things💡](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Fun.md)**
