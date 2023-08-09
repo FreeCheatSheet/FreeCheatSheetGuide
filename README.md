@@ -26,6 +26,7 @@
   - [Torrents](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#torrents)
 - **[💾Emulation💾](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Emulation.md)**
 - **[🖥️PC Gaming🖥️](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PCGaming.md)**
+  - [Search](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PCGaming.md#videogame-search)
 - **[📁Software📁](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Software.md)**
 - **[📚Books📚](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Books.md)**
 - **[🎵Music🎵](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Music.md)**
