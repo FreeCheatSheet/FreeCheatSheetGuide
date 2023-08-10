@@ -23,16 +23,22 @@
     - [Best](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#best)
     - [Alternitive Streaming Sites](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#alternitive-streaming-sites)
     - [Do Not Use](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#do-not-use-any-of-these)  
-
   - [LiveTV](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#livetv)
   - [Sports](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#sports)
   - [Downloads](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#downloads)
   - [Torrents](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#torrents)
 - **[💾Emulation💾](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Emulation.md)**
+  - [Roms](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Emulation.md#roms)
+  - [Emulator](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Emulation.md#emulators) 
 - **[🖥️PC Gaming🖥️](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PCGaming.md)**
   - [Search](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PCGaming.md#videogame-search)
+  - [Direct Downloads](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PCGaming.md#direct-downloads)
+  - [Repacks](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PCGaming.md#repack)
+  - [Modding](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PCGaming.md#modding)
 - **[📁Software📁](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Software.md)**
 - **[📚Books📚](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Books.md)**
+  - [Read Books](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Books.md#readbooks)
+  - [AudioBooks](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Books.md#audiobooks)
 - **[🎵Music🎵](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Music.md)**
 - **[💽Other💽](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Other.md)**
 - **[💡Fun Things💡](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Fun.md)**
