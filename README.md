@@ -16,7 +16,7 @@
 
 ## Contents
 
-> If you are a beginner I highly recomend Learning to be safe online before entering, you can learn more in the [Main Page](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/edit/main/README.md#freecheatsheetv3)
+> If you are a beginner I highly recomend Learning to be safe online before entering, you can learn more in the [Main Page]()
 
 - **[🍿Movies and TV🍿](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md)**
   - [Streaming](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#streaming)
