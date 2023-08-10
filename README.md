@@ -2,7 +2,7 @@
 [**Skip To Contents**](#contents)
 
 > [!IMPORTANT]
-> WIP (Text needs disclaimer)
+> This is **NOT** a guide to piracy this is a guide to internet safety for legal information [Read this](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/LICENSE)
 
 ## Internet Safety
 
