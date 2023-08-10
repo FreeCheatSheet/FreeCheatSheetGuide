@@ -5,19 +5,14 @@
 > This is **NOT** a guide to piracy this is a guide to internet safety, for legal information [Read this](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/LICENSE)
 
 ## Internet Safety
-
 <img align="right" width="33%" src="https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PiracyDog.png">
 
 ## VPNS
 
-
-
 ## Antivirius
 
 ## Contents
-
 > If you are a beginner I highly recomend Learning to be safe online before entering, you can learn more in the [Main Page](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#internet-safety)
-
 - **[🍿Movies and TV🍿](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md)**
   - [Streaming](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#streaming)
     - [Best](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#best)
@@ -42,8 +37,5 @@
 - **[🎵Music🎵](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Music.md)**
 - **[💽Other💽](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Other.md)**
 - **[💡Fun Things💡](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Fun.md)**
-
 ## Donations 
-
 > I am not doing this to get paid or get donations I just love making guides and sharing them, the only support I want is for you to share around. **thanks**
-
