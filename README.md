@@ -8,7 +8,9 @@
 
 <img align="right" width="33%" src="https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PiracyDog.png">
 
+## VPNS
 
+## Antivirius
 
 ## Contents
 
