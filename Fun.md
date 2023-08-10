@@ -8,6 +8,7 @@
 - [WaterMarkRemover](https://www.watermarkremover.io/) - Get rid of watermarks [Safe](https://www.urlvoid.com/scan/watermarkremover.io/)👍
 - [Wolframealpha](https://www.wolframalpha.com/) - [Safe](https://www.urlvoid.com/scan/wolframalpha.com/)👍
 - [Tinywow](https://tinywow.com/) - [Safe](https://www.urlvoid.com/scan/tinywow.com/)👍
+- [RetroGames](https://www.retrogames.cc/) - [Safe](https://www.urlvoid.com/scan/retrogames.cc/)
 
   ## Ai Websites
 - [Gamma](https://gamma.app/) - AI will make Slides, websites, and docs for you [Safe](https://www.urlvoid.com/scan/gamma.app/)👍
