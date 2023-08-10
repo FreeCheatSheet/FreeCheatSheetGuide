@@ -38,3 +38,6 @@
 - **[💡Fun Things💡](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Fun.md)**
 
 ## Donations 
+
+> I am not doing this to get paid or get donations I just love making guides and sharing them, the only support I want is for you to share around. **thanks**
+
