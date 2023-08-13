@@ -5,5 +5,6 @@
 
 ## AudioBooks
 - [AudioAZ](https://audioaz.com/) - [Safe](https://www.urlvoid.com/scan/audioaz.com/)
-
+- [AudioBookBay](https://audiobookbay.is/) - [Safe](https://www.urlvoid.com/scan/audiobookbay.is/)
+ 
 ## [Back To Contents](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#contents)
