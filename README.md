@@ -9,7 +9,6 @@
 
 ## VPNS
 - [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)
-- [NordVPN](https://nordvpn.com/)
 ## Antivirius
 
 ## Contents
