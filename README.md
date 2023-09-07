@@ -8,7 +8,7 @@
 <img align="right" width="33%" src="https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PiracyDog.png">
 
 ## Software
-- [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall I had no problems with it.☀️
+- [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.☀️
 ## VPNS
 - [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)
 ## Antivirius
