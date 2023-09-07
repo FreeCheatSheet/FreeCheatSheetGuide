@@ -9,6 +9,7 @@
 - [Wolframealpha](https://www.wolframalpha.com/) - [Safe](https://www.urlvoid.com/scan/wolframalpha.com/)👍
 - [Tinywow](https://tinywow.com/) - [Safe](https://www.urlvoid.com/scan/tinywow.com/)👍
 - [RetroGames](https://www.retrogames.cc/) - [Safe](https://www.urlvoid.com/scan/retrogames.cc/)
+- [Classroom6xUnblocked](https://sites.google.com/site/classroom6x/unblockedgames?authuser=0) - I play this on school computers and they can't do anything about it [Safe](https://www.urlvoid.com/scan/sites.google.com/) 
 
   ## Ai Websites
 - [Gamma](https://gamma.app/) - AI will make Slides, websites, and docs for you [Safe](https://www.urlvoid.com/scan/gamma.app/)👍
