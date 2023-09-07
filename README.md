@@ -11,11 +11,13 @@
 - [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.☀️
 ## VPNS
 - [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)🟢
+- [NordVpn](https://nordvpn.com/download/windows/) - [Not Safe](https://www.urlvoid.com/scan/nordvpn.com/)
+- [ProtonVPN](https://protonvpn.com/pricing) - [Not Safe](https://www.urlvoid.com/scan/protonvpn.com/)
 ## Antivirius
 Always remember that the best antivirus is **common sense**.
 - [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou) - [Safe](https://www.urlvoid.com/scan/malwarebytes.com/)☀️
 - [Kaspersky](https://usa.kaspersky.com/downloads/free-antivirus) - [Safe](https://www.urlvoid.com/scan/usa.kaspersky.com/) There is a trial [reset](https://www.youtube.com/watch?v=RGcabZROdVc&t=534s)🟢
-
+- [](url)
 
 ## Contents
 > If you are a beginner I highly recomend Learning to be safe online before entering, you can learn more in the [Main Page](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#internet-safety)
