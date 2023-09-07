@@ -44,4 +44,4 @@ Always remember that the best antivirus is **common sense**.
 - **[💽Other💽](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Other.md)**
 - **[💡Fun Things💡](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Fun.md)**
 ## Donations 
-> I am not doing this to get paid or get donations I just love making guides and sharing them, the only support I want is for you to share around. **thanks**
+> I am not doing this to get paid or get donations I just love making guides and sharing them, the only support I want is for you to share around. Also there is a [Google Form](https://forms.gle/YxBvMq8PBgZGTYyB9) **thanks**
