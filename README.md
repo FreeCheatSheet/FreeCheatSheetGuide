@@ -10,11 +10,11 @@
 ## Software
 - [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.☀️
 ## VPNS
-- [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)
+- [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)🟢
 ## Antivirius
 Always remember that the best antivirus is **common sense**.
 - [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou) - [Safe](https://www.urlvoid.com/scan/malwarebytes.com/)☀️
-- [Kaspersky](https://usa.kaspersky.com/downloads/free-antivirus) - [Safe](https://www.urlvoid.com/scan/usa.kaspersky.com/) There is a trial [reset](https://www.youtube.com/watch?v=RGcabZROdVc&t=534s)
+- [Kaspersky](https://usa.kaspersky.com/downloads/free-antivirus) - [Safe](https://www.urlvoid.com/scan/usa.kaspersky.com/) There is a trial [reset](https://www.youtube.com/watch?v=RGcabZROdVc&t=534s)🟢
 
 
 ## Contents
