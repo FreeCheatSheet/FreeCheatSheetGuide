@@ -15,6 +15,7 @@
 - [Gamma](https://gamma.app/) - AI will make Slides, websites, and docs for you [Safe](https://www.urlvoid.com/scan/gamma.app/)👍
 - [ClaudeAI](https://claude.ai/) - Good ChatGPT alt [Safe](https://www.urlvoid.com/scan/claude.ai/)☀️
 - [Axiom](https://axiom.ai/automate/web) - [Safe](https://www.urlvoid.com/scan/axiom.ai/)👍
+- [QuillBot](https://quillbot.com/) - [Safe](https://www.urlvoid.com/scan/quillbot.com/)👍
 
   ## Extentions
 
