@@ -10,7 +10,7 @@
 ## Software
 - [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.☀️
 ## VPNS
-- [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)🟢
+- [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)☀️
 - [NordVpn](https://nordvpn.com/download/windows/) - [Not Safe](https://www.urlvoid.com/scan/nordvpn.com/)
 - [ProtonVPN](https://protonvpn.com/pricing) - [Not Safe](https://www.urlvoid.com/scan/protonvpn.com/)
 ## Antivirius
