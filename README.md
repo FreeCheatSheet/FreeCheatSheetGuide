@@ -1,4 +1,4 @@
-# FreeCheatSheetV3 [Donate](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#donations)
+# FreeCheatSheetV3 [Support Us](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#donations)
 [**Skip To Contents**](#contents)
 
 > [!IMPORTANT]
