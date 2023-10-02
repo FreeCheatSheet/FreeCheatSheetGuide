@@ -26,14 +26,14 @@
 - [UniqueStream](https://uniquestream.net/) - [Not Safe](https://www.urlvoid.com/scan/uniquestream.net/)🟡
 - [YesMovies](https://ww.yesmovies.ag/) - [Not Safe](https://www.urlvoid.com/scan/ww.yesmovies.ag/)🟡
 ### Do Not Use Any of these
-- [JustChill](https://www.justchill.tv/) - Do Not Give it you login info [Not Safe](https://www.urlvoid.com/scan/justchill.tv/)🔴
+- [JustChill](https://www.justchill.tv/) - This is all around good advice do not give login info to "media" sites [Not Safe](https://www.urlvoid.com/scan/justchill.tv/)🔴
 
 ## LiveTV
 - [WatchLegally](https://www.alliance4creativity.com/watch-legally/) - [Safe](https://www.urlvoid.com/scan/alliance4creativity.com/)🟢
   
 
 ## Sports
-- [SportSurge](https://v2.sportsurge.net/home/) - [Safe](https://www.urlvoid.com/scan/v2.sportsurge.net/)⭐
+- [SportSurge](https://v2.sportsurge.net/home/) - all around best way to get sports because you get a list of sites [Safe](https://www.urlvoid.com/scan/v2.sportsurge.net/)⭐
 - 
 
 ## Downloads
