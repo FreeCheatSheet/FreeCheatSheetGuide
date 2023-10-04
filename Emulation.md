@@ -5,7 +5,7 @@
 
 ## Emulators
 
-> No matter what nentendo says emulators are legal but what is not legal is installing bios for it.
+> Always remember downloading and using emulators is not "piracy" but installing roms and bios is.
 
 - [RetroArch](https://www.retroarch.com/) - [Safe](https://www.urlvoid.com/scan/retroarch.com/)
 - [Snes9x](https://www.snes9x.com/) - [Safe](https://www.urlvoid.com/scan/snes9x.com/)
