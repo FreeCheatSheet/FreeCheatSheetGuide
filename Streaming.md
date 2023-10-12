@@ -37,8 +37,8 @@
 - 
 
 ## Downloads
-- [MovieWeb](https://movie-web.app/search/movie) - Best all around but has no reconditions [Safe](https://www.urlvoid.com/scan/movie-web.app/)⭐
-- [4KMovies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - [Safe](https://www.urlvoid.com/scan/mega.nz/)
+- [MovieWeb](https://movie-web.app/search/movie) - Best all around but has no reconditions [Safe](https://www.urlvoid.com/scan/movie-web.app/)🟢
+- [4KMovies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - [Safe](https://www.urlvoid.com/scan/mega.nz/)⭐
 - [wip](url)
 
 ## Torrents
