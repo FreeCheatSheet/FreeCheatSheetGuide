@@ -19,7 +19,7 @@ When on the internet in general you should limit trackers and Ads
 - [NordVPN](https://nordvpn.com/) - Not worth it. [Not Safe](https://www.urlvoid.com/scan/nordvpn.com/)🔴
 ## Antivirius
 Always remember that the best antivirus is **common sense**.
-- [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou) - [Safe](https://www.urlvoid.com/scan/malwarebytes.com/)☀⭐
+- [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou) - [Safe](https://www.urlvoid.com/scan/malwarebytes.com/)⭐
 - [Kaspersky](https://usa.kaspersky.com/downloads/free-antivirus) - [Safe](https://www.urlvoid.com/scan/usa.kaspersky.com/) There is a trial [reset](https://www.youtube.com/watch?v=RGcabZROdVc&t=534s)🟢
 
 ## Extentions
