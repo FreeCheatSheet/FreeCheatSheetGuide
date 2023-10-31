@@ -11,7 +11,6 @@
 - [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.☀️
 ## VPNS
 - [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)☀️
-- [NordVpn](https://nordvpn.com/download/windows/) - [Not Safe](https://www.urlvoid.com/scan/nordvpn.com/)
 - [ProtonVPN](https://protonvpn.com/pricing) - [Not Safe](https://www.urlvoid.com/scan/protonvpn.com/)
 - [RaspberryPI VPN](https://www.youtube.com/watch?v=rtUl7BfCNMY) - Good if you want your own VPN and its not really that hard.
 - [NordVPN](https://nordvpn.com/) - Not worth it. [Not Safe](https://www.urlvoid.com/scan/nordvpn.com/)
