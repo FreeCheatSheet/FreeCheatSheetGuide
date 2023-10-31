@@ -5,9 +5,9 @@
 > This is **NOT** a guide to piracy this is a guide to internet safety, for legal information, also keep in mind this is in beta so expect things not to be fully done. [Read this](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/LICENSE)
 
 ## Internet Safety
-When on the internet in general you should limit trackers and Ads 
-
 <img align="right" width="33%" src="https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PiracyDog.png">
+
+When on the internet in general you should limit trackers and Ads, you can get extentions to help with this [here](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#extentions).
 
 ## Software
 - [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.⭐
