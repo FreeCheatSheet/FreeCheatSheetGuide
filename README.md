@@ -5,20 +5,29 @@
 > This is **NOT** a guide to piracy this is a guide to internet safety, for legal information, also keep in mind this is in beta so expect things not to be fully done. [Read this](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/LICENSE)
 
 ## Internet Safety
+When on the internet in general you should limit trackers and Ads 
+
 <img align="right" width="33%" src="https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/PiracyDog.png">
 
 ## Software
-- [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.☀️
+- [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.☀⭐
 ## VPNS
-- [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)☀️
+- [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)☀⭐
 - [ProtonVPN](https://protonvpn.com/pricing) - [Not Safe](https://www.urlvoid.com/scan/protonvpn.com/)
 - [RaspberryPI VPN](https://www.youtube.com/watch?v=rtUl7BfCNMY) - Good if you want your own VPN and its not really that hard.
 - [NordVPN](https://nordvpn.com/) - Not worth it. [Not Safe](https://www.urlvoid.com/scan/nordvpn.com/)
 ## Antivirius
 Always remember that the best antivirus is **common sense**.
-- [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou) - [Safe](https://www.urlvoid.com/scan/malwarebytes.com/)☀️
+- [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou) - [Safe](https://www.urlvoid.com/scan/malwarebytes.com/)☀⭐
 - [Kaspersky](https://usa.kaspersky.com/downloads/free-antivirus) - [Safe](https://www.urlvoid.com/scan/usa.kaspersky.com/) There is a trial [reset](https://www.youtube.com/watch?v=RGcabZROdVc&t=534s)🟢
-- [](url)
+
+## Extentions
+Some fun and privacy focused extentions.
+- [Privacy Badger](https://privacybadger.org/) -  Blocks website trackers and other online tracking tools. ⭐ [Safe](https://www.urlvoid.com/scan/privacybadger.org/)
+- [uBlockOrgin](https://github.com/gorhill/uBlock) - Blocks ads, this is the best blocker.⭐ [Safe](https://www.urlvoid.com/scan/github.com/)
+- [Buster](https://github.com/dessant/buster) - automatically fills out captchas. 🟢 [Safe](https://www.urlvoid.com/scan/github.com/)
+- [Don'tCareAboutCookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Get rid of cookie warnings from almost all websites.⭐ [Safe](https://www.urlvoid.com/scan/github.com/)
+- [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube sponsorship segments.👍 [Safe](https://www.urlvoid.com/scan/sponsor.ajay.app/)
 
 ## Contents
 > If you are a beginner I highly recomend Learning to be safe online before entering, you can learn more in the [Main Page](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#internet-safety)
