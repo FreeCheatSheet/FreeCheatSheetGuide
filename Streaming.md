@@ -1,4 +1,5 @@
 # 🍿Movies and TV🍿
+> I recomend downloading and using [Tor](https://www.torproject.org/download/) when streaming.
 ## Streaming
 ### Best
 - [MovieWeb](https://movie-web.app/search/movie) - Best all around but has no reconditions this is the one I personally use [Safe](https://www.urlvoid.com/scan/movie-web.app/)⭐
