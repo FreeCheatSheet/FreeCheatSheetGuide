@@ -16,7 +16,8 @@
 - [ClaudeAI](https://claude.ai/) - Good ChatGPT alt [Safe](https://www.urlvoid.com/scan/claude.ai/)☀️
 - [Axiom](https://axiom.ai/automate/web) - [Safe](https://www.urlvoid.com/scan/axiom.ai/)👍
 - [QuillBot](https://quillbot.com/) - [Safe](https://www.urlvoid.com/scan/quillbot.com/)👍
-
+- [Perplexity](https://www.perplexity.ai/) - [Safe](https://www.urlvoid.com/scan/perplexity.ai/)⭐
+ 
   ## Extentions
 
 ## [Back To Contents](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#contents)
