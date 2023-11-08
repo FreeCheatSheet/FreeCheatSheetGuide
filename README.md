@@ -7,7 +7,7 @@
 ## Internet Safety
 <img align="right" width="33%" src="https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Pirate_Bronk_2.jpg">
 
-When on the internet in general you should limit trackers and Ads, you can get extentions to help with this [here](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#extentions). When downloading media you should use an antivirus its not requred but its recommend you can find them [here](https://github.com/FreeCheatSheet/FreeCheatSheetGuide#antivirius), usually the best antivirus is commom sense. Some good to know stuff is if a website asks for a login [get a temp mail](https://temp-mail.org/en/), and generate a [random password](https://www.avast.com/en-us/random-password-generator#pc).
+When on the internet in general you should limit trackers and Ads, you can get extentions to help with this [here](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#extentions). When downloading media you should use an antivirus its not requred but its recommend you can find them [here](https://github.com/FreeCheatSheet/FreeCheatSheetGuide#antivirius), usually the best antivirus is commom sense. Some good to know stuff is if a website asks for a login [get a temp mail](https://temp-mail.org/en/), and generate a [random password](https://www.avast.com/en-us/random-password-generator#pc). A big thing you should install would be a torrenting software, 
 
 ## Software
 - [QBittorrent](https://www.qbittorrent.org/download) - [Not Safe](https://www.qbittorrent.org/download) It may be flagged as unsafe but overall zero problems with it.⭐
