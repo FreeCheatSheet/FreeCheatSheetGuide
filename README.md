@@ -1,4 +1,4 @@
-# FreeCheatSheetV3             [Support Us](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#donations)
+# FreeCheatSheetV3.5             [Support Us](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#donations)
 [**Skip To Contents**](#contents)
 
 > [!IMPORTANT]
@@ -6,6 +6,8 @@
 
 ## Internet Safety
 <img align="right" width="33%" src="https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Pirate_Bronk_2.jpg">
+
+**Update 4 Soon!!!!**
 
 When on the internet in general you should limit trackers and Ads, you can get extentions to help with this [here](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/README.md#extentions). When downloading media you should use an antivirus its not requred but its recommend you can find them [here](https://github.com/FreeCheatSheet/FreeCheatSheetGuide#antivirius), usually the best antivirus is commom sense. Some good to know stuff is if a website asks for a login [get a temp mail](https://temp-mail.org/en/), and generate a [random password](https://www.avast.com/en-us/random-password-generator#pc). A big thing you should install would be a torrenting software, 
 
@@ -15,7 +17,6 @@ When on the internet in general you should limit trackers and Ads, you can get e
 ## VPNS
 - [Mullvad](https://mullvad.net/en) - [Safe](https://www.urlvoid.com/scan/mullvad.net/)⭐
 - [ProtonVPN](https://protonvpn.com/pricing) - [Not Safe](https://www.urlvoid.com/scan/protonvpn.com/)🟢
-- [RaspberryPI VPN](https://www.youtube.com/watch?v=rtUl7BfCNMY) - Good if you want your own VPN and its not really that hard.🟢
 - [NordVPN](https://nordvpn.com/) - Not worth it. [Not Safe](https://www.urlvoid.com/scan/nordvpn.com/)🔴
 ## Antivirius
 Always remember that the best antivirus is **common sense**.
@@ -24,7 +25,7 @@ Always remember that the best antivirus is **common sense**.
 
 ## Extentions
 Some fun and privacy focused extentions.
-- [Privacy Badger](https://privacybadger.org/) -  Blocks website trackers and other online tracking tools. ⭐ [Safe](https://www.urlvoid.com/scan/privacybadger.org/)
+- [Privacy Badger](https://privacybadger.org/) -  Blocks website trackers and other online tracking tools. (Not Really useful if you use Brave)⭐ [Safe](https://www.urlvoid.com/scan/privacybadger.org/)
 - [uBlockOrgin](https://github.com/gorhill/uBlock) - Blocks ads, this is the best blocker.⭐ [Safe](https://www.urlvoid.com/scan/github.com/)
 - [Buster](https://github.com/dessant/buster) - automatically fills out captchas. 🟢 [Safe](https://www.urlvoid.com/scan/github.com/)
 - [Don'tCareAboutCookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Get rid of cookie warnings from almost all websites.⭐ [Safe](https://www.urlvoid.com/scan/github.com/)
