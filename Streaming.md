@@ -1,7 +1,7 @@
 # 🍿Movies and TV🍿
 > I recomend downloading and using [Tor](https://www.torproject.org/download/) when streaming. This will provide a VPN and privacy tools. 
 ## Streaming
-This page is devided i multiple sections [best](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#best), [Altrnitive](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#alternitive-streaming-sites), and [No use](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#do-not-use-any-of-these).
+This page is devided i multiple sections [best](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#best), [Alternitive](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#alternitive-streaming-sites), and [No use](https://github.com/FreeCheatSheet/FreeCheatSheetGuide/blob/main/Streaming.md#do-not-use-any-of-these).
 ### Best
 - [MovieWeb](https://movie-web.app/search/movie) - Best all around but has no reconditions this is the one I personally use [Safe](https://www.urlvoid.com/scan/movie-web.app/)⭐
 - [BFlix](https://bflix.sx/) - [Safe](https://www.urlvoid.com/scan/bflix.sx/)🟢
